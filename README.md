@@ -11,7 +11,7 @@ I’m dedicated to learning, growing, and sharing knowledge with others. Whether
 
 ---
 
-### 🌟 A Few Fun Facts About Me  
+### 🌟 A Few Facts About Me  
 - 🌐 **Tech Enthusiast**: I enjoy working on projects that bridge technology and creativity.  
 - 🔧 **Builder Mindset**: I love creating tools, apps, and designs that simplify life.  
 - 📚 **Lifelong Learner**: I'm committed to enhancing my skills every single day.  
@@ -59,26 +59,6 @@ I’m dedicated to learning, growing, and sharing knowledge with others. Whether
 
 ---
 
-### 🚀 Projects  
-Here are a few of my favorite projects that I’ve worked on:  
-
-1. **Personal Portfolio Website**  
-   - A responsive website showcasing my journey, skills, and work.  
-   - **Tech Stack**: HTML, CSS, JavaScript  
-   - [GitHub Repository](#)  
-
-2. **Todo Application**  
-   - A user-friendly app to manage daily tasks with full CRUD functionality.  
-   - **Tech Stack**: React, Node.js, MongoDB  
-   - [GitHub Repository](#)  
-
-3. **Weather Dashboard**  
-   - A live weather tracker with city-specific updates.  
-   - **Tech Stack**: Vanilla JavaScript, OpenWeatherMap API  
-   - [GitHub Repository](#)  
-
----
-
 ### 🎯 Goals for 2025  
 1. Achieve **expertise in frontend frameworks** like React and Angular.  
 2. Develop a strong command of **data structures and algorithms**.  
@@ -88,22 +68,11 @@ Here are a few of my favorite projects that I’ve worked on:
 
 ---
 
-### 🧩 Problem-Solving  
-I enjoy solving challenges and improving my programming skills daily! Here are a few stats:  
-
-- **HackerRank**: 🌟 5-Star in Problem-Solving  
-- **LeetCode**: ⚡ Solved 300+ problems, Ranking in Top 20%  
-- **CodeChef**: 🏅 3-Star Coder  
-- **HackerEarth**: 🔥 Consistently participating in contests  
-
----
-
 ### 🏅 Interests  
 When I’m not coding, I’m usually:  
-- 🎵 Listening to music or podcasts about technology.  
-- 📖 Reading about AI and emerging trends in computer science.  
-- 🏋️‍♂️ Working out to stay physically fit.  
-- 🎮 Gaming to relax and unwind after a productive day.  
+- 📖 **Reading books** on technology, self-development, and nature.  
+- 🌿 **Exploring nature** and enjoying the outdoors.  
+- 🎵 **Listening to music** to relax and get inspired.  
 
 ---
 
