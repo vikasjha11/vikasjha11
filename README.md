@@ -1,10 +1,10 @@
 # Hi 👋, I'm Vikas Kumar Jha
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=580&height=50&lines=A+Computer+Science+Enthusiast+from+India&center=true&vCenter=true">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0000FF&width=580&height=50&lines=A+Computer+Science+Enthusiast+from+India&center=true&vCenter=true">
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=580&height=50&lines=Exploring+the+World+of+Technology&center=true&vCenter=true">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0000FF&width=580&height=50&lines=Exploring+the+World+of+Technology&center=true&vCenter=true">
 </p>
 
 ---
@@ -37,7 +37,7 @@ _"Technologies that build ideas into reality."_
 
 ### 🎯 Goals for 2025
 
-- Achieve **expertise in frontend frameworks** like React and Angular.
+- Achieve **expertise in frontend frameworks**.
 - Develop a strong command of **data structures and algorithms**.
 - Contribute to **open-source projects**.
 - Build at least **three full-stack applications**.
@@ -49,7 +49,7 @@ _"Technologies that build ideas into reality."_
 
 When I’m not coding, I’m usually:
 
-- 📖 **Reading books** on technology, self-development, and nature.
+- 📖 **Reading books** on technology, Finance, self-development, and nature.
 - 🌿 **Exploring nature** and enjoying the outdoors.
 - 🎵 **Listening to music** to relax and get inspired.
 
