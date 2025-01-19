@@ -5,6 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Vikas Kumar Jha's Profile</title>
   <style>
+    /* Intro Text Animation */
     .intro-text {
       font-size: 24px;
       font-weight: bold;
@@ -26,17 +27,43 @@
         color: white;
       }
     }
+
+    /* Other Styles for Content */
+    h1 {
+      text-align: center;
+      font-size: 32px;
+    }
+    h3 {
+      text-align: center;
+      font-size: 24px;
+    }
+    ul {
+      list-style-type: square;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 20px 0;
+    }
+    table, th, td {
+      border: 1px solid black;
+    }
+    th, td {
+      padding: 10px;
+      text-align: center;
+    }
   </style>
 </head>
 <body>
+  
   <!-- Intro Text Animation Section -->
   <div class="intro-text">
     A Computer Science Enthusiast from India, Exploring the World of Technology
   </div>
 
   <!-- About Me Section -->
-  <h1 align="center">Hi 👋, I'm Vikas Kumar Jha</h1>
-  <h3 align="center">A Computer Science Enthusiast from India, Exploring the World of Technology</h3>
+  <h1>Hi 👋, I'm Vikas Kumar Jha</h1>
+  <h3>A Computer Science Enthusiast from India, Exploring the World of Technology</h3>
 
   <!-- About Me in Detail Section -->
   <h3>👨‍💻 About Me in Detail</h3>
@@ -126,5 +153,6 @@
       <img src="https://img.shields.io/badge/HackerEarth-323754?style=for-the-badge&logo=hackerearth&logoColor=white" alt="HackerEarth" />
     </a>
   </p>
+
 </body>
 </html>
