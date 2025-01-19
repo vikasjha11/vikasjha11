@@ -1,24 +1,59 @@
-<!-- Intro Animation Section -->
-<div class="intro-text">
-  A Computer Science Enthusiast from India, Exploring the World of Technology
-</div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Vikas Kumar Jha's Profile</title>
+  <style>
+    .intro-text {
+      font-size: 24px;
+      font-weight: bold;
+      color: white;
+      text-align: center;
+      padding: 20px;
+      animation: slideIn 3s ease-in-out infinite;
+      background-color: #007bff; /* Blue color background */
+      border-radius: 10px;
+      margin: 20px 0;
+    }
+
+    @keyframes slideIn {
+      0% {
+        opacity: 0;
+        transform: translateX(-100%);
+      }
+      50% {
+        opacity: 1;
+        transform: translateX(0);
+      }
+      100% {
+        opacity: 0;
+        transform: translateX(100%);
+      }
+    }
+  </style>
+</head>
+<body>
+  <!-- Intro Animation Section -->
+  <div class="intro-text">
+    A Computer Science Enthusiast from India, Exploring the World of Technology
+  </div>
+
+  <!-- About Me Section -->
+  <h1 align="center">Hi 👋, I'm Vikas Kumar Jha</h1>
+  <h3 align="center">A Computer Science Enthusiast from India, Exploring the World of Technology</h3>
+
+  ---
+
+  ### 👨‍💻 About Me in Detail  
+
+  Hi there! I'm **Vikas Kumar Jha**, a passionate and curious **B.Tech 2nd-year Computer Science student** from India. Ever since I wrote my first line of code, I’ve been hooked on exploring how technology can shape the world around us.  
+
+  I’m dedicated to learning, growing, and sharing knowledge with others. Whether it’s mastering complex algorithms, building intuitive user interfaces, or solving real-world problems, I’m always up for the challenge.  
 
 ---
 
-<h1 align="center">Hi 👋, I'm Vikas Kumar Jha</h1>
-<h3 align="center">A Computer Science Enthusiast from India, Exploring the World of Technology</h3>
-
----
-
-### 👨‍💻 About Me in Detail  
-
-Hi there! I'm **Vikas Kumar Jha**, a passionate and curious **B.Tech 2nd-year Computer Science student** from India. Ever since I wrote my first line of code, I’ve been hooked on exploring how technology can shape the world around us.  
-
-I’m dedicated to learning, growing, and sharing knowledge with others. Whether it’s mastering complex algorithms, building intuitive user interfaces, or solving real-world problems, I’m always up for the challenge.  
-
----
-
-### 🌟 A Few Facts About Me  
+  ### 🌟 A Few Facts About Me  
 - 🌐 **Tech Enthusiast**: I enjoy working on projects that bridge technology and creativity.  
 - 🔧 **Builder Mindset**: I love creating tools, apps, and designs that simplify life.  
 - 📚 **Lifelong Learner**: I'm committed to enhancing my skills every single day.  
@@ -27,7 +62,7 @@ I’m dedicated to learning, growing, and sharing knowledge with others. Whether
 
 ---
 
-### 🛠️ Tools & Technologies  
+  ### 🛠️ Tools & Technologies  
 > **"Technologies that build ideas into reality."**
 
 <table>
@@ -66,8 +101,8 @@ I’m dedicated to learning, growing, and sharing knowledge with others. Whether
 
 ---
 
-### 🎯 Goals for 2025  
-1. Achieve **expertise in frontend & Backend frameworks**  
+  ### 🎯 Goals for 2025  
+1. Achieve **expertise in frontend frameworks** .  
 2. Develop a strong command of **data structures and algorithms**.  
 3. Contribute to **open-source projects**.  
 4. Build at least **three full-stack applications**.  
@@ -75,15 +110,15 @@ I’m dedicated to learning, growing, and sharing knowledge with others. Whether
 
 ---
 
-### 🏅 Interests  
+  ### 🏅 Interests  
 When I’m not coding, I’m usually:  
-- 📖 **Reading books** on technology,Finance,self-development, and nature.  
+- 📖 **Reading books** on technology, Finance, self-development, and nature.  
 - 🌿 **Exploring nature** and enjoying the outdoors.  
 - 🎵 **Listening to music** to relax and get inspired.  
 
 ---
 
-### 📱 Connect with Me  
+  ### 📱 Connect with Me  
 <p align="center">
   <a href="https://linkedin.com/in/vikas-kumar-jha-6716a7293" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -101,3 +136,4 @@ When I’m not coding, I’m usually:
     <img src="https://img.shields.io/badge/HackerEarth-323754?style=for-the-badge&logo=hackerearth&logoColor=white" alt="HackerEarth" />
   </a>
 </p>
+
