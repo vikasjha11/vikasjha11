@@ -10,27 +10,6 @@
 
 ---
 
-### 📱 Connect with Me
-<p align="center">
-  <a href="https://linkedin.com/in/vikas-kumar-jha-6716a7293" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/vikas_jha_19" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://www.hackerrank.com/vikasjha19" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
-  </a>
-  <a href="https://www.leetcode.com/vikas_jha_19" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-  <a href="https://www.hackerearth.com/@vikaskumarjha763" target="_blank">
-    <img src="https://img.shields.io/badge/HackerEarth-323754?style=for-the-badge&logo=hackerearth&logoColor=white" alt="HackerEarth" />
-  </a>
-</p>
-
----
-
 ### 🛠️ Tools & Technologies
 > **"Technologies that build ideas into reality."**
 
@@ -53,6 +32,7 @@
       <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
     </td>
     <td>
+      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
       <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
     </td>
@@ -69,8 +49,21 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📱 Connect with Me
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vikasjha11&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikasjha11&layout=compact&theme=radical" alt="Top Languages" />
+  <a href="https://linkedin.com/in/vikas-kumar-jha-6716a7293" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/vikas_jha_19" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.hackerrank.com/vikasjha19" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  </a>
+  <a href="https://www.leetcode.com/vikas_jha_19" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://www.hackerearth.com/@vikaskumarjha763" target="_blank">
+    <img src="https://img.shields.io/badge/HackerEarth-323754?style=for-the-badge&logo=hackerearth&logoColor=white" alt="HackerEarth" />
+  </a>
 </p>
