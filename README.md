@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vikas Kumar Jha</h1>
 <h3 align="center">A Computer Science Enthusiast from India, Exploring the World of Technology</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vikasjha11&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
 ---
 
 ### 🌱 About Me
@@ -73,15 +69,8 @@
 
 ---
 
-### 📊 GitHub Stats:
+### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vikasjha11&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikasjha11&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-### 🔥 Streak Stats:
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikasjha11&theme=radical" alt="Streak Stats" />
 </p>
