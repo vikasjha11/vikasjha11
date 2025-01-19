@@ -1,8 +1,11 @@
 # Hi 👋, I'm Vikas Kumar Jha
 
-### A Computer Science Enthusiast from India, Exploring the World of Technology
-
-**A Computer Science Enthusiast from India, Exploring the World of Technology**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=580&height=50&lines=A+Computer+Science+Enthusiast+from+India&center=true&vCenter=true">
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=580&height=50&lines=Exploring+the+World+of+Technology&center=true&vCenter=true">
+</p>
 
 ---
 
