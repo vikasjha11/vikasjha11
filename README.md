@@ -1,3 +1,10 @@
+<!-- Intro Animation Section -->
+<div class="intro-text">
+  A Computer Science Enthusiast from India, Exploring the World of Technology
+</div>
+
+---
+
 <h1 align="center">Hi 👋, I'm Vikas Kumar Jha</h1>
 <h3 align="center">A Computer Science Enthusiast from India, Exploring the World of Technology</h3>
 
@@ -60,7 +67,7 @@ I’m dedicated to learning, growing, and sharing knowledge with others. Whether
 ---
 
 ### 🎯 Goals for 2025  
-1. Achieve **expertise in frontend frameworks** like React and Angular.  
+1. Achieve **expertise in frontend & Backend frameworks**  
 2. Develop a strong command of **data structures and algorithms**.  
 3. Contribute to **open-source projects**.  
 4. Build at least **three full-stack applications**.  
@@ -70,7 +77,7 @@ I’m dedicated to learning, growing, and sharing knowledge with others. Whether
 
 ### 🏅 Interests  
 When I’m not coding, I’m usually:  
-- 📖 **Reading books** on technology, self-development, and nature.  
+- 📖 **Reading books** on technology,Finance,self-development, and nature.  
 - 🌿 **Exploring nature** and enjoying the outdoors.  
 - 🎵 **Listening to music** to relax and get inspired.  
 
